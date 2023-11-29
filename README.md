@@ -5,6 +5,7 @@ This project is a Python script that reads a matrix from a file, transforms it t
 
 <h2>Language and Library</h2>
 Language: Python 3.x
+
 Library: Sympy
 
 <h2>Implementation</h2>
